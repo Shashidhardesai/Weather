@@ -1,0 +1,26 @@
+.div1 {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .div2 {
+    margin-bottom: 20px;
+  }
+  
+  .div2 input {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .div2 button {
+    padding: 5px 10px;
+  }
+  
+  .div3 {
+    margin-top: 20px;
+  }
+  
+  .div3 div {
+    margin-bottom: 10px;
+  }
+  
